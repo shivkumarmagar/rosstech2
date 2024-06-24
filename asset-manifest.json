@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23ec9d10.css",
+    "main.js": "/static/js/main.f5f1943c.js",
+    "static/media/supply-chain.jpg": "/static/media/supply-chain.9263675715249c59479b.jpg",
+    "static/media/instagram.png": "/static/media/instagram.c5e16dd45afe87cbd31d.png",
+    "static/media/twiter.png": "/static/media/twiter.407a52329a1ff67b80ab.png",
+    "static/media/facebook.png": "/static/media/facebook.c8d5e6e2eda59fd2432b.png",
+    "static/media/linkdin.png": "/static/media/linkdin.378e99dab95252b6d701.png",
+    "index.html": "/index.html",
+    "main.23ec9d10.css.map": "/static/css/main.23ec9d10.css.map",
+    "main.f5f1943c.js.map": "/static/js/main.f5f1943c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ec9d10.css",
+    "static/js/main.f5f1943c.js"
+  ]
+}
